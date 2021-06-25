@@ -1,2 +1,2 @@
 # Joguinho-da-Cobbrinha
-Exercicio pratico 
+$ Exercício pratico 
